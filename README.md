@@ -3,4 +3,4 @@
 #### Assisting the public in effectively practicing their privacy rights.
 
 Download Epyks_ Encrypted Messanger Today:
-website: https://epyks.org
+https://epyks.org
